@@ -8,10 +8,10 @@ c) git diff
 d) git log
 
 Qual comando do Git é usado para criar uma nova branch?
-a) git create-branch
+*a) git create-branch*
 b) git new-branch
 c) git branch-create
-*d) git checkout -b*
+d) git checkout -b
 
 O que é um merge no contexto do Git?
 a) Um comando para excluir uma branch
