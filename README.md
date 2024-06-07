@@ -9,9 +9,9 @@ d) git log
 
 Qual comando do Git é usado para criar uma nova branch?
 a) git create-branch
-*b) git new-branch*
+b) git new-branch
 c) git branch-create
-d) git checkout -b
+*d) git checkout -b*
 
 O que é um merge no contexto do Git?
 a) Um comando para excluir uma branch
@@ -27,8 +27,8 @@ d) Uma solicitação para excluir um commit
 
 Qual é a diferença entre git pull e git fetch?
 a) Não há diferença, ambos atualizam o repositório local
-b) git pull traz as alterações do repositório remoto e mescla automaticamente com a branch local, enquanto git fetch apenas traz as alterações do repositório remoto sem mesclar
-*c) git pull traz as alterações do repositório remoto sem mesclar, enquanto git fetch traz as alterações e mescla automaticamente*
+*b) git pull traz as alterações do repositório remoto e mescla automaticamente com a branch local, enquanto git fetch apenas traz as alterações do repositório remoto sem mesclar*
+c) git pull traz as alterações do repositório remoto sem mesclar, enquanto git fetch traz as alterações e mescla automaticamente
 d) git pull traz as alterações de um branch específico, enquanto git fetch traz todas as branches do repositório remoto
 
 O que é um repositório remoto?
