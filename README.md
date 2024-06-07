@@ -8,8 +8,8 @@ c) git diff
 d) git log
 
 Qual comando do Git é usado para criar uma nova branch?
-*a) git create-branch*
-b) git new-branch
+a) git create-branch
+*b) git new-branch*
 c) git branch-create
 d) git checkout -b
 
